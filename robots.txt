@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://5kblog.github.io/sitemap.xml
