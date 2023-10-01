@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs | Seonuk Kim</title>
+    <link>https://5kblog.github.io/ko/docs/</link>
+      <atom:link href="https://5kblog.github.io/ko/docs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Docs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://5kblog.github.io/media/logo_hu8f742b2e310c0450937642a7ae047510_75631_300x300_fit_lanczos_3.png</url>
+      <title>Docs</title>
+      <link>https://5kblog.github.io/ko/docs/</link>
+    </image>
+    
+  </channel>
+</rss>

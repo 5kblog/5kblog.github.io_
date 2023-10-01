@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Seonuk Kim</title>
+    <link>https://5kblog.github.io/ko/publication-type/1/</link>
+      <atom:link href="https://5kblog.github.io/ko/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://5kblog.github.io/media/logo_hu8f742b2e310c0450937642a7ae047510_75631_300x300_fit_lanczos_3.png</url>
+      <title>1</title>
+      <link>https://5kblog.github.io/ko/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Do People Use Games to Compensate for Psychological Needs During Crises? A Mixed-Methods Study of Gaming During COVID-19 Lockdowns</title>
+      <link>https://5kblog.github.io/ko/publication/2022-ballou-et-al-do-people/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://5kblog.github.io/ko/publication/2022-ballou-et-al-do-people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Determination Theory in HCI : Shaping a Research Agenda</title>
+      <link>https://5kblog.github.io/ko/publication/2022-ballou-et-al-sdt-in-hci/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://5kblog.github.io/ko/publication/2022-ballou-et-al-sdt-in-hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actions, not gestures: contextualising embodied controller interactions in immersive virtual reality</title>
+      <link>https://5kblog.github.io/ko/publication/2021-ratcliffe-et-al-actions/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://5kblog.github.io/ko/publication/2021-ratcliffe-et-al-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not Very Effective: Validity Issues of the Effectance in Games Scale</title>
+      <link>https://5kblog.github.io/ko/publication/2021-ballou-et-al-not-very-effective/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://5kblog.github.io/ko/publication/2021-ballou-et-al-not-very-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are You Open? A Content Analysis of Transparency and Openness Guidelines in HCI Journals</title>
+      <link>https://5kblog.github.io/ko/publication/2021-ballou-et-al-are-you-open/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://5kblog.github.io/ko/publication/2021-ballou-et-al-are-you-open/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

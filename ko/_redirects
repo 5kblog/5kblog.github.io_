@@ -1,0 +1,13 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: https://docs.netlify.com/routing/redirects/
+/ko/post/ /blog/
+/ko/post/ /ko/blog/
+/ko/posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /blog/no-time-for-learning/
+/ko/post/no-time-for-learning/ /blog/no-time-for-learning/
+/ko/posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /ko/blog/no-time-for-learning/
+/ko/post/no-time-for-learning/ /ko/blog/no-time-for-learning/
+/ko/posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /blog/sdt-in-video-games-basic-needs-misunderstandings/
+/ko/posts/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /blog/sdt-in-video-games-basic-needs-misunderstandings/
+/ko/posts/content/post/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /ko/blog/sdt-in-video-games-basic-needs-misunderstandings/
+/ko/posts/misunderstandings-of-sdt-in-video-games-part-1-basic-psychological-needs/ /ko/blog/sdt-in-video-games-basic-needs-misunderstandings/
